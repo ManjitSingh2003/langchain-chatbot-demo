@@ -13,7 +13,7 @@ This repository contains a chatbot built using Python and the LangChain library.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/langchain-chatbot-demo.git
+git clone https://github.com/ManjitSingh2003/langchain-chatbot-demo.git
 ```
 
 ### 2. Install Dependencies
